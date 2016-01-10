@@ -1,2 +1,2 @@
 # sysinfo
-Collection System Information Engine
+System Information Collection Engine
